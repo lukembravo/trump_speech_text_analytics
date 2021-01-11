@@ -7,5 +7,5 @@ In this project, our group sought to answer these questions and more using natur
 ### Our Team
 Luke Bravo: [`LinkedIn`](https://www.linkedin.com/in/luke-bravo/)  
 Pete Davis: [`GitHub`](https://github.com/petedavis22) [`LinkedIn`](https://www.linkedin.com/in/petermdavis/)  
-Benjamin Deutsch: [`LinkedIn`](https://www.linkedin.com/in/bpdeutsch/)
+Benjamin Deutsch: [`LinkedIn`](https://www.linkedin.com/in/bpdeutsch/)  
 Khoi Tran: [`GitHub`](https://github.com/knt36) [`LinkedIn`](https://www.linkedin.com/in/khoitran94/)
